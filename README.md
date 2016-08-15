@@ -1,10 +1,8 @@
-# IN THE OF NAME GOD
-<br/>
-Instagram PassWord Cracker
-<br/>
+#Instagram PassWord Cracker 
 Developed By SALEH FEYZI
 <br/>
-SALEH[dot]FAEZY77[at]gmail[dot]com 
+saleh.faez77@gmail.com
+<br/>
 ![SS1](http://s6.uplod.ir/i/00811/6i5b3tbzd64w.jpg)
 > MultiProccessing Instagram Account password bruteforcer
 
