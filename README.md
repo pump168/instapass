@@ -5,7 +5,7 @@ Developed By SALEH FEYZI
 saleh.faez77@gmail.com
 <br/>
 
-![SS1](http://s6.uplod.ir/i/00811/6i5b3tbzd64w.jpg)
+![SS1](http://s3.img7.ir/YXyrk.jpg)
 
 **[Warning] I take no responsibility for the use of this script [Warning]**
 
